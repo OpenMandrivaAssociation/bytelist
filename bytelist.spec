@@ -3,7 +3,7 @@ Version:        0.1
 Release:        %mkrel 0.2.svn6558.1
 Summary:        A java library for lists of bytes
 
-Group:          Development/Libraries
+Group:          Development/Java
 License:        CPL or GPLv2+ or LGPLv2+
 URL:            http://jruby.codehaus.org/
 # The source for this package was pulled from upstream's vcs. Use the
