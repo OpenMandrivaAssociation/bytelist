@@ -1,6 +1,6 @@
 Name:           bytelist
 Version:        0.1
-Release:        %mkrel 2.2.svn6558.1
+Release:        %mkrel 2.2.svn6558.2
 Summary:        A java library for lists of bytes
 
 Group:          Development/Java
