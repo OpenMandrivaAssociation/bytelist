@@ -54,3 +54,24 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(-,root,root,-)
 %{_javadir}/%{name}.jar
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 0.1-2.2.svn6558.3mdv2011.0
++ Revision: 616906
+- the mass rebuild of 2010.0 packages
+
+* Wed Sep 02 2009 Thierry Vignaud <tv@mandriva.org> 0.1-2.2.svn6558.2mdv2010.0
++ Revision: 424701
+- rebuild
+
+* Thu Aug 07 2008 Thierry Vignaud <tv@mandriva.org> 0.1-2.2.svn6558.1mdv2009.0
++ Revision: 266434
+- rebuild early 2009.0 package (before pixel changes)
+
+* Mon Apr 28 2008 Alexander Kurtakov <akurtakov@mandriva.org> 0.1-0.2.svn6558.1mdv2009.0
++ Revision: 198008
+- fix Group
+- import bytelist
+
+
