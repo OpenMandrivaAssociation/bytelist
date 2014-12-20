@@ -7,7 +7,8 @@
 
 Name:           bytelist
 Version:        1.0.8
-Release:        6.0%{?dist}
+Release:        9.1
+Group:		Development/Java
 Summary:        A java library for lists of bytes
 
 
@@ -64,7 +65,7 @@ export CLASSPATH=$(build-classpath junit jcodings)
 %files
 %{_javadir}/*
 %{_mavenpomdir}/*
-%{_mavendepmapfragdir}/*
+%{_datadir}/maven-metadata/%{name}.xml
 %doc README.txt
 
 %changelog
