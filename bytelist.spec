@@ -7,7 +7,7 @@
 
 Name:           bytelist
 Version:        1.0.8
-Release:        9.2
+Release:        9.3
 Group:		Development/Java
 Summary:        A java library for lists of bytes
 
