@@ -13,7 +13,7 @@ Summary:        A java library for lists of bytes
 
 
 License:        CPL or GPLv2+ or LGPLv2+
-URL:            http://github.com/%{cluster}/%{name}
+URL:            https://github.com/%{cluster}/%{name}
 Source0:        http://download.github.com/%{cluster}-%{name}-%{version}-0-g%{git_commit}.tar.gz
 
 BuildArch:      noarch
